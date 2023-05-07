@@ -1,11 +1,11 @@
 # itzNoob
 
-
+# RUN COMMAND - 
 
 
 git clone https://github.com/itzalif007/itzNoob
 
 
-cd itz noob
+cd itzNoob
 
 python itznoob.py
