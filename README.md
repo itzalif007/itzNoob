@@ -8,4 +8,4 @@ git clone https://github.com/itzalif007/itzNoob
 
 cd itzNoob
 
-python itzoNoob.py
+python itzNoob.py
